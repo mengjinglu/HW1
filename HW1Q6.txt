@@ -1,0 +1,12 @@
+The distance between two center is: 4.0
+The sum of radius is:4.0
+These two ciecles are touching each otherThe distance between two center is: 3.0
+The sum of radius is:4.0
+These two circles are overlapping each other
+The distance between two center is: 5.0
+The sum of radius is:4.0
+These two circles are seperate from each otherThe distance between two center is: 2.0
+The sum of radius is:6.0
+The first circle is inside the second circle The distance between two center is: 2.0
+The sum of radius is:6.0
+These two circles are overlapping each other
